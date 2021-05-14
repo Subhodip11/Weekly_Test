@@ -1,0 +1,5 @@
+Please check through 
+1.copy_without_loops
+2.sort_2d_array
+3.dynamic array files 
+All the answers are specified in functions
